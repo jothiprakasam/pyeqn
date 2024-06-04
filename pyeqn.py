@@ -1,6 +1,6 @@
 import math
 import matplotlib.pyplot as plt
-
+#This package has been maintained by JOTHI PRAKASAM R
 # Function for solving a quadratic equation
 def QUADRATIC_EQN(a, b, c):
     try:
