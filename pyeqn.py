@@ -17,7 +17,7 @@ def QUADRATIC_EQN(a, b, c):
         print("Zero Division")
 
 # Function to plot the roots
-def PLOT(a, b, c):
+def PLOT_QUADRATIC(a, b, c):
     roots = QUADRATIC_EQN(a, b, c)
     if roots:
         x_values = roots
