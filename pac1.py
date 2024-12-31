@@ -6,6 +6,11 @@ def QUADRATIC_EQN(a,b,c):
          return res1
        except ValueError:
              print("The equation has complex root")
+#sample testfunction
+def sample():
+       pass
+              
+              
 
 
 
