@@ -1,3 +1,6 @@
+'''
+* Jothi Prakasam
+'''
 import math
 import matplotlib.pyplot as plt
 #This package has been maintained by JOTHI PRAKASAM R
